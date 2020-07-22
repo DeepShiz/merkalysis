@@ -1,0 +1,570 @@
+S.No,USERNAME,Caption,Followers,Hashtags,Time since posted,Likes
+1,victoria_prokop,Wednesday evening 💻,4664,#programming #programmer #programmerhumor #programmerlife #programmerslife #programmerslife💻 #programmersday #programmerslifestyle #girlwhocode #girlwhocodes #womanwhocode #womanwhocodes #womenwhocode #womenwhocodes #programmergirl #girlprogrammer #ukrainianprogrammers #lutsk #lutskpeople #lutskgram #lutskcity #lutsklife #frontend #frontendfriday #frontenddeveloper #frontenddev #angular #flutter #flutterdev #flutterdeveloper,21 hours,602
+2,miruna.oancea,Nothing makes a Monday better than the iOS 14 announcement 📱🤓,,"
+#codingdays #iosdeveloper #ios #softwaredeveloper #developerspace #devlife #programming #developer #programmergirl #womandeveloper #stayhome #lifestyle #appdeveloper #mobiledeveloper #ideadeveloper #swiftdeveloper #romaniangirl #mac #imac #computerscience #coding #homeoffice #worklifebalance #womanintech #techgirl #codegirl #geekalert",22 hours,575
+3,adriennetacke,"
+How do we improve code reviews?
+___
+
+Yesterday we learned about the top code review complaints #devs have: subjectivity, tone of voice, and process loopholes. Today, I'll tell you what we can do better!
+___
+
+On Subjectivity: Let the 🤖 robots take over! They're better at it anyway...what I mean by this is use linters and style analyzers! We shouldn't be fussing over indentation and formatting in a code review, we should be fixing these issues before they even reach the code review stage! And we're much more open to our computer telling us we have these issues (rather than our colleagues!). Lastly, focus on being objective: talk about the code, not the developer.
+___
+
+On Tone of Voice: TL;DR Don't be a jerk! But to be a bit more verbose...Suggest, with facts! Reject, with courtesy! Clarify, with an open mind! When you're about to give a suggestion, explain why! If there is truly something wrong with the code, focus on the code and explain why it won't work or why it goes against your team's code standards. If you have questions about how something was implemented, open a discussion with your colleague to learn more, NOT to start an argument on why your implementation would have been better!
+___
+
+On Process Loopholes: I can't stress this enough... Enforce the process for EVERYONE! Every dev and every line of code needs to be reviewed. Auto-add reviewers to pull requests! Create a policy that ensures 2 or more approvers are required before merging (even better if you can and are able to require the whole dev team's approval)! Agree beforehand with your team on what the process is 🤝
+___
+
+I talk about this in depth in my talk Conducing Humans Code Reviews! Give it a listen if you want to start performing better code reviews ☺️",19300,"
+#codereview #pullrequest #ILookLikeAnEngineer #latenightvibes #codingview #cleancode #cleansetup #bamboo #remotelife #dellmonitor #daskeyboard #mechanicalkeyboards #FilipinasInTech #filipinos #github #codingblog #programming #vegastech #adrienneCodes #CloudDevelopment #officeinspo #womenintech #GirlsWhoCode",20 hours,462
+4,nathaniel.codes,"Happy Wednesday Evening!😇
+[11/100] #100daysofcode 
+_
+As you know I am a game developer (unreal engine)...
+There’s one rookie mistake I made in the beginning and I am here to stop you from making the same mistake 😇
+_
+Firstly many noobs confuse Actors with Pawns (that was my mistake). Actors are basically objects that can be placed into a level.
+An Actor is your base object for pretty much every game object.
+_
+And a pawn is an actor that can be controlled by either the player or the games AI.
+You’ll want to use Actors for things like tables, doors, lamps, etc.
+Meanwhile you’ll want to use Pawns for the monsters, non-playable characters and anything else that is seemingly alive in your game.
+
+Note: each pawn has a controller and vice versa.
+_
+Enjoy the rest of the week and stay safe!🧡",248,#gamedev #gamedesign #gamedevelopment #gamedeveloper #gamedevlife #gamedevs #programming #programmer #programminglife #programmingisfun #noob #devlife #developers #developer #development #dev #developerlife #developerslife #gamedesigner #coder #coderlife #coderslife #codecollect #codefromhome #codecommunity #codecommunity #worldcode #codeuniverse #ue4 #unrealengine,23 hours,128
+5,kixcodes,"What’s your trick?😄 Who said a coffee and cake couldn’t fix your bugs? 🐛 👩🏼‍💻 when I take a break like go for a walk, a coffee or even to the toilet 😂 I usually find a good idea to try out! Staring at the code rarely helps me...",26400,#developer #coding #programming #programmer #code #javascript #coder #webdeveloper #python #java #html #software #development #technology #webdevelopment #softwaredeveloper #codinglife #css #computerscience #tech #developers #webdesign #developerlife #php #softwareengineer #dev #programmers #design,11 hours,1045
+6,girl_loves_coding,Avoid a Promise chain by using Async/ Await 📌,8547,#softwaredeveloper #engineer #code #developerlife #tech #codetips #codeexame #javascript #es6 #js #webdeveloper #programming #programmer #girldeveloper #girls #programmergirl #girlwhocodes #dev_girls #coder #techwomen #girlsintech #backend #frontend #backenddeveloper #fullstackdeveloper #denmark #programmør,6 hours ,1630
+7,travelingprogrammer,Happy Wednesday! Let's to Q&A today 🎉 Drop a question in comments 👇 and I'll respond here or in a post within the next couple of days 🙌⁣,18700,#programming #lifestyle #travelling #travellingprogrammer,15 hours,1646
+8,ramz_digital,The magic is in the details 🦄,5347,#technology #modernhome #workspaceinspo #minimalsetups #designyourworkspace #setupinspiration #workhardanywhere #productivespaces #ux #programming #coding #remotedeveloper #workfromhome #wfh #webdeveloper #javascript #reactjs #developer #frontend #computerscience #softwareengineer #dev #html #css,28 minutes,64
+9,_programmerhumor_,Did he?,10900,#programming #programmingmemes #programminghumor #reddit,1 hours,187
+10,python.science,Negative number in a range🧠🔥💻,9133,#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #computerscience #js#softwareengineering #informationtechnology#developer #softwareengineer#programmerhumor,2 hours,58
+11,codec_ore,COMMENT THE OUTPUT !,133,. #challenge #python3 #pythonleather #pythonchallenge #royalpython #javafx #css #html #pythonprogramming #learncoding #pythons #fullstack #designer #androiddeveloper #android #appdevelopment #pythoncode #codec_ore #java #webdevelopment #development #coding #programming #artificialintelligence #python #ai #pythoncode #webdesign #pythonsofinstagram,4 hours,28
+12,circuitbasics,Connect an LCD to the Raspberry Pi with only 4 wires using I2C,32600,#raspberrypi #rpi #raspberrypiprojects #bash #python #C #linux #programming #coding #circuitbasics #circuits #maker #make #robots #robotics #iot #diy #diyelectronics #electronics #electronicsprojects #stem #tech #gadgets #engineering #electricalengineering #microcontroller #homeautomation,2 hours,139
+13,programming_tech_memes,The ladder.. 📚,4543,,1 hours,58
+14,abhijith.abhi._,"ᴅᴏ ɴᴏᴛ ɢɪᴠᴇ ᴜᴘ, ᴛʜᴇ ʙᴇɢɪɴɴɪɴɢ ɪꜱ ᴀʟᴡᴀʏꜱ ᴛʜᴇ ʜᴀʀᴅᴇꜱᴛ.💯👍",981,#technews #me #likeforlikes #smile #cute #ai #follow #techy #makeup #like #instadaily #design #pro #iphone #programming #tech #xiaomi #photographers_of_india #incredibleindia #nature #bird #instagood #nofilter #picoftheday #instagram #natgeo #hope,3 hours,87
+15,samanthaming,How to convert Array to Object with Object.fromEntries,39100,,1 hours,213
+16,youngspaace,So what will it be? Are we conscious enough to build a better future for ourselves where we will utilize the benefits of new technologies?,137000,#robotics #robot #technology #engineering #robots #arduino #stem #electronics #artificialintelligence #raspberrypi #coding #ai #automation #tech #programming #innovation #iot #science #arduinoproject #robotic #machinelearning #engineer #education #robotica #steam #electrical #arduinouno #firstrobotics #stemeducation #bhfyp,7 hours,1442
+17,yourhacker.in,Follow 👉 @yourhacker.in for more,2459,#yourhacker #cybersecurity #cyber #cybertruck #technology #techno #bettercap #ethicalhacking #ethicalfashion #cybernews #js #spy #hacker #algorithm #metasploit #kalilinux #programming #python #java #terminal #hacks #techworld #technologyblog #technologythesedays #technofamily #technolovers #it #python #kali #linux,8 hours,89
+18,coderbea,Android or iOS? ✨ iOS 14 was announced recently and I am a happy and excited girl!,2723,#coding #tech #programmer #girlswhocode #programming #software #softwareengineer #softwaredeveloper #softwaredev #code #100daysofcoding #learntocode #apple #android #airpods #portraits #aritzia #developer #iphone,12 hours,118
+19,artificialintelligencefacts,check out @artificialintelligencefacts .To stay updated with AI technologydaily interview quizes on python and AI,14500,#datascience #dataanalyst,3 hours,200
+20,cybernikunj,Something About Kiuwan Code Security...💻😯☠️☠️,2172,#hacking #hacker #cybersecurity #coding #designing #technology #linux #diyprojects #programming #kalilinux #tech #ethicalhacking #hacks #hackers #python #security #programmer #computerscience #infosec #java #computer #lifehacks #html #cyber #pentesting #favourites #kalilinuxtools #securityplus,6 hours ,104
+21,elya_trm,STEP BY STEP GUIDE 🇩🇪 How to Apply to Study in Germany⁣⁣⠀,3540,#artificialintelligence #ai #machinelearning #technology #datascience #tech #innovation #programming #deeplearning #bigdata #iot #python #robotics #coding #data #blockchain #robot #future #business #internetofthings #computerscience #analytics #dataanalytics #automation #ml #robots #datascientist #engineering,5 hours,256
+22,codinggoats,Essential books for web developers 👨‍💻 Which one have you already read? 🤔,22600,#programming #codung #developer #programmingbooks #javascript #codinggoats to thin #seift #java #c #csharp #html #cas #html5 #css3 #ai #machinelearning #webdeveloper #webdev #frontenddeveloper #backenddeveloper #fullstackdeveloper,6 hours ,850
+23,keithgalli,"
+That feeling when you hit 1000 followers on GitHub",2298,#programmer #developer #coding #softwareengineer #programming #dev #code #startuplife #python #python3 #computerscience #peoplewhocode #codinglife #software #javascript #java #engineer #technology #techie #tech #devlife #workstation #wfh #github #softwareengineer #softwaredeveloper #learntocode #webdev #workfromhomelife,1 hours,277
+24,deeplearningnerds,The „Deep“ of Deep Learning refers to the number of hidden layers in neural networks. ,11700,#artificialintelligence #künstlicheintelligenz #machinelearning #ai #machinelearningtools #deeplearning #deeplearningmachine #neuralnetworks #datascience #datascientist #data #bigdata #bigdataanalysis #dataanalytics #computerscience #computersciencestudent #informatik #mathematics #mathematik #programming #codinglife💻 #coding #python #pythonprogramming #tensorflow #keras #googleai #nvidia #computer #programmieren,2 hours,123
+25,technical_devang,Which us your fav,19300, #developer  #cybersecurity  #cyber  #cybertruck  #technology  #techno #android  #ethicalhacking  #ethics  #cybernews #js  #spy  #hacker  #algorithm  #metasploit  #kalilinux  #programming #python #java #terminal #hacks #techworld #technologyblog #technologythesedays  #technical_devang #it  #python #kali #linux,1 hours,154
+26,codingambitions,Medium - For reading blogs on technology,5274,#developers #androiddeveloper #androidography #iosdevelopment #vuejs #htmlcss #codingambitions #angularjs #javacodesnippet #javabootcamp #webdesigntrends #htmlcode #programming,3 hours,68
+27,python.hub,There is always more than one way to solve any problem and here we are presenting you one of the best examples ever,177000,#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #softwareengineering #informationtechnology#developer #programmerhumor,2 hours,5640
+28,republicofcoders,"How many languages should you know to pursue your dream career?
+We will attempt to answer these tricky questions in this post.
+Here are the most loved programming languages we recommend for coders who want to make it big in 2020.",23700,#republicofcoders #programmerslife #programming #language #java #csharp #c #spring #dotnet #php #laravel #javascript #codeigniter #nodejs #angular #robot #programmer #developer #developers #coder #nodejs #angular #development #hack #hacking #seo #seoexpert #socialmedia #socialmediamarketing #technology,9 hours,404
+29,php.dev,DART 🖤 🔥,11900,#code#developer#worldcode#programmerlife#programmerslife#coder#programmer#programming#programmerrepublic#yazilim#web#php#coding#webdesign#koddunyasi#helloword#helloworldyazilim#codeismylife#dev#developers#codingblog#personelblog#codeismylife#jquery#pcsetup#setup,1 hours,141
+30,creativewebdeveloper,"
+Beware you managers lol.. ...🤣🤣",45800,#javascript #angular #reactjs #vuejs #webdevelopment #webdeveloper #webdesign #webdesigner #html #html5 #programming #css #css3 #js #jquery #php #nodejs #rubyonrails #java #android #laravel #mongodb #nosql #mysql #softwaredeveloper #softwareengineering #creativewebdeveloper #programmingmemes #programmingjokes,5 hours,892
+31,karmasthi,For website designing DM us ,10100,#techie #programmingmemes #softwareengineer #webdesigner,13 hours,357
+32,codethememe,"
+Do you use adblock?If not, why?🚫😎",6021,"#codethememe#tech#programmerjoke
+#linuxuser#internetexplorermemes
+#webdevelopment
+#php#javascript#tech#program
+#programming#software
+#devlife#HTML5#coders#computerscience
+#softwaredeveloper#error
+#programmingmemes#techmemes#css3
+#ethicalhacking#webprogramming#phyton
+#codememes#programmersday
+#codelife#programmingfun
+#cprogramming#technologymemes",1 hours,184
+33,androidevelopment,Do you agree?,29800,#programminghumor #programmings #programmingstudents #programming #programmingmemes #reprogramming ,4 hours,759
+34,thecybersecurityhub,"
+NVIDIA has released security updates to address security vulnerabilities found in GPU Display and CUDA drivers and Virtual GPU Manager software that could lead to code execution, denial of service, escalation of privileges, and information disclosure on both Windows and Linux machines. Although all the flaws patched today require local user access and cannot be exploited remotely, with attackers having to first get a foothold on the exposed machines to launch attacks designed to abuse these bugs. Once that is achieved, they could take exploit them by remotely planting malicious code or tools targeting one of these issues on devices running vulnerable NVIDIA drivers. By abusing these vulnerabilities, attackers can escalate privileges to gain permissions above the initial default ones granted by the OS, ",312000,#computerscience #computerengineering #cybersecurity #infosec #riskmanagement #encryption #IoT #AI #dataprotection #privacy #hacking #hacker #pentest #tech #datascience #code #coding #python #php #linux #java #webdev #programming #programmer #webdeveloper #technology #security,18 hours,5621
+35,codes.learning,"
+Interview questions in C languages🔥🧠💻",78100,"
+#neurolinguisticprogramming #programmingcontest
+#programminglife #programmingmemes
+#programminglanguage #computerprogramming
+#programmingislife #cprogramming #webprogramming
+#programmingisfun #programmingjokes
+#pythonprogramming #learnprogramming
+#programmingquotes #warriorprogramming
+#programminglanguage #programminghumour
+#programminglove #programmingstudents #programming",1 hours,1991
+36,javascript.js,If you want to level up as a developer and learn more about,490000,#javascript #typescript #react #reactnative #vuejs #webdevelopment #webdeveloper #angular #webdesigner #html #html5 #programming #css #css3 #js #jquery #php #nodejs #rubyonrails #java #android #laravel #mongodb #nosql #mysql #postgresql #software #python #softwaredeveloper #softwareengineering,9 hours,8790
+37,curlyblondcoder,"Well, you pass .some() a function as the argument. That function runs for each value in the array. You can then see if the value fits the condition you’ve written. ",2148,#techpeople #techie #peopleintech #womenintech #girlswhocode #coding #codingbootcamp #codinggirl #womenwhoengineer #womenwhocodes #javascript #webdeveloper #webdevelopment #softwareengineer #freecodecamp #developer #developerlife #programming #programmer,1 hours,87
+38,miss.molerat,"Big news for some people:
+Tech doesn't exist in a vacuum.",11300,#ilooklikeanengineer #programmer #programming #coding #code #coder #dev #softwaredeveloper #womenwhocode #girlswhocode #girlcoder #womenintech #engineering #engineer #machinelearning #artificialintelligence #developer #linuxuser #linuxfan #computerscience,2 hours,294
+39,technical_bytes,"
+Follow for more",10400,#repost #digitalmarketing #php #java #seo #smo#programming #programmerslife #codingisfun #programmerlife #programmer #programmingisfun #programmerhumor #programmingisfun #learnprogramming #programming #pythonprogramming #programmingcontest #programmingmemes #javaprogramming #programmingjokes #programminghumor,2 hours,345
+40,technical_sapien,Which one have you used?,69500,#technology #tech #developer #software #apps #appstore #hacking #hacker #linux #cybersecurity #programming #python #hack #coding #programmer #kalilinux #hackers #computerscience #code #coder #java #ethicalhacking #html #computer #security,5 hours,4987
+41,twing_world,Follow more for ,356,"#programmer #program #programming #javajavajava #java #python #sql #firebase #aws #javascripts #scripting #coding #codingbootcamp #tcs #cognizant #zoho #codinglife #coder #coderlife #coder #codergirl #codered
+#developer #developerlife #developers #zoho #backend #androidstudio #androidstudiotutorials #machinelearning",9 hours,89
+42,mr.coderz,"
+Legend 😂😂😂....",4672,"#programming
+#coding #programmer #programminglife #coder#javascript #ai
+#redcoders #programmers #codingjokes
+#deeplearning
+#developer #coders #cplusplus #programming #datascientist
+#programmerslife #machinelearning #python
+#programmerslife #artificialintelligence
+#codinghumor #python3 #datascience #js
+#codingmemes #programmingmemes
+#java #programmingjokes #programmerhumor",3 hours,128
+43,engineeringlife.tv,"Would you consider yourself a Frontend, Backend or Fullstack developer? 🤔⁣",19000,#coding #codinglife#coder #programming#programminglife,2 hours,28
+44,desenvolvedor.exe,"Eai, tu tem aquele amigo que precisa ver isso ? então marca o ser humaninho ai pó!! ✌",4848,"
+#programador #developer #desenvolvedor #java #tecnologia  #javascript #programa #programming #programadores #programmer #software  #python #informatica #cienciadacomputacao #php #coding #programar  #tecnologiadainforma #computa #webdeveloper #programacion #inform  #programacao #sistemasdeinforma #backend #desenvolvedorweb #game #gamer #gaming",4 hours,98
+45,the_frustrated_hacker,Follow now the one nd only page on Instagram which creates memes on hacking @the_frustrated_hacker,5612,#hackers #hacking #hacker #cybersecurity #ethicalhacking #security #programming #kalilinux #linux #anonymous #hack #technology #hackerspace #cyber #programmer #tech #python #hacked #hackerman #or #hackerindonesia #ethicalhacker #coding #malware #hacks #coder #ethicalhackers #pentesting #cybercrime #android,2 hours,330
+46,the_tech_official,yea ultra legend pro ( power off the power unit) 😂🤣.,4243,"#programmer #programming #coding #developer #coder #code#javascript #python #java #html #webdeveloper  #technology #tech #computerscience #webdevelopment #programmers #codinglife #softwaredeveloperlinux #software  #softwareengineer #webdesign  #programmerlife #computer #hacking #development #hacker 
+#machinelearning #memes",8 hours,264
+47,passion_on_hacking,Some basic Linux commands ,3173,#hacker #hacking #cybersecurity #hackers #programming #ethicalhacking #linux #python #coding #kalilinux #programmer #security #anonymous #hacked #ethicalhacker #java #pentesting #infosec #developer #hackerindia #hackerone #Hackingtricks #malware #Hackingtools #programming #dataprotection #cyberattack #encryption #informationsecurity #networksecurity #cybersecurityawareness,2 hours,96
+48,programmingofficial,"
+😆😅😂",110000,"#programmer #programming #coding #developer #code 
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering",2 hours,1546
+49,codingblocks,"Here we are with the list of Codsule June Edition Winners! 😍
+Congratulations Coders! 🥳",40600,#CodingBlocks #Codsule #CodingChallenge #Nagarro #CodeLikeABoss #Coding #Programming #Programmers #Developers #Lockdown #CodeLikeABoss #Coding #CodingLife #LifeOfACoder #MachineLearning #Backend #Frontend #Tech #Technology #CodingisFun #WebDevelopment #SoftwareDeveloper #Java #Python #Javascript,3 hours,157
+50,easytronic3795,Bluetooth Control Car,162000,"#electrical 
+#iot
+#electricalengineer #arduino
+#ai #automation #electronic #electronica #internetofthings #electronics #project #engineer #automation #programmer #soldering #programming #circuit #adafruit #raspberrypi #projects #nodemcu #techno #arduinouno #robotics #arduinoproject #embeddedsystems #robots #robot
+#easytronic3795
+#lucknow
+#allahabad",2 hours,564
+51,codinganddecoding,"Tag your friends and follow @codinganddecoding⁣⁣
+⁣",119000,"#programmers #developers
+#programmer #developer
+#code #coder #coding #programming
+#softwaredevelopment #technology
+#tech #database #html5 #ruby #javascript
+#softwaredevelopment #devlife #softwaredeveloper #codinglife #fullstackdeveloper #frontenddeveloper
+#javascriptdeveloper #programminglife
+#computerscience #computerengineer #softwareengineer #computerengineering #webdev #htmlcss #frontend",22 hours,3379
+52,comment_sense," Since I got a new job, it’s been pretty hard to work on my projects but when i got the chance i make small commits. Everything is going smoothly. I’m validating user inputs in the front end so far , but i’ll also add more validation on the backend. after validating the user, I need to start implementing protective routes and setting sessions and cookies which so far I really don’t know how it works 😅",143000,#coder #cosding #softwaredeveloper #webapplicationdeveloper #webdeveloper #javascriptdeveloper #nodejsdeveloper #developer #aoftwareengineering #html #100daysofcode #newjob #studying #programming #photocode #ui #ux #design,23 hours,15789
+53,naomi_mastache,"
+Throwback Thursday ",1900,#sun #church #love #fashion #instagood #instalike #beautiful #happy #cute #tbt #follow #me #selfie #beauty #code #coding #programming #programmer #developer #coder #webdeveloper #software #technology #tech #computerscience,21 hours,187
+54,andresvidoza,"
+Introducing myself to python! ✎",59100,"#codingislife
+#codingfun
+#learncoding
+#python3
+#pythonlearning
+#pythondeveloper
+#pythonprogrammer
+#codelife
+#programmerrepublic
+#pythonprogramming
+#pythoncode
+#peoplewhocode
+#devlife
+#worldcode
+#programmerslife
+#programminglife
+#softwaredevelopment
+#software
+#webdevelopment
+#webdeveloper
+#codinglife
+#coder
+#programmer",16 hours,1620
+55,martinsoft,"Happy Friday! 👋🏼 How was your week?
+.",36500,#softwareengineer #code #programmer #coder #programming #programmerlife #developer #100daysofcode #codingisfun #developers #softwaredeveloper #programmers #codingpics #engineeringlife #appdesign #programminglife #lifeofadeveloper #learntocode #workfromhome #workanywhere #deskspace #desksetup #freelancers #fullstackdeveloper #webdeveloper #webdevelopment #appdeveloper #iosdeveloper #appdevelopment #educateyourself,16 hours,1332
+56,ozgewhocodes,"
+Our greatest glory is not in never falling, but in rising every time we fall. — Confucius",21100,"
+#girlwhocodes #codergirl #100daysofcode #coding #reactjs #webdesign #uidesign #javascript #machinelearning #womenintech #codinglife #webdeveloper #developer #dell #computerscience #delltechworld #technology #ui #codingbootcamp #programming #programmer #frontenddeveloper #devlife #setup #technology #devlife #worldcode #codingbootcamp #codingisfun #womenempowerment #mobiledevelopment #setup #dev_girls",9 hours,640
+57,sallycodes,Weekend 🌞,2701,#100daysofcode #girlswhocode #womenwhocode #software #development #geek #coding #code #programming #developer #gsintech #girlsintech #womenintech #mobileworking #homeoffice #digitalnomad #programmer #flutter #fullstackdeveloper #friday,1 hours,126
+58,reactjs1,"Which commands do you use frequently?
+Do you use Git?",2191,#github #python #coding #javascript #programming #developer #java #programmer #code #linux #html #git #hacker #css #php #hacking #coder #cybersecurity #webdevelopment #webdeveloper #nodejs #frontend #webdev #kalilinux #softwareengineer #webdesign #bash #developerlife #android #girlswhocode,2 hours,57
+59,officialhackerinc,Build your skill in the most-used operating systems in the world.,88300,#OnlineLearning #Programming #webdevelopment #Technology #programador #Linux #unix #archlinux #linuxfan #linuxmint #linuxwindow #opensource #operatingsystem #coding #computerscience,1 hours,128
+60,geekboy,Child's play 😎👏,71300,"#programmer #programming #coding #developer #code
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering #pythonprogramming
+#stackoverflow",2 hours,484
+61,brocode.py,"Maybe or maybe not.
+Keep trying.
+Definitely can or definitely will.",3077,#coding #webdevelopment #codeclique #codeuniverse #programmer #codingmotivation #coderlife #webdeveloper #learncoding #code #codingdays #backenddeveloper #codependency #programming #developers #peoplewhocode #pythonprogramming #webdev #fullstack #websitedesign #programmerslife #programmer #technology #codes #developer #codinglife #developerspace #buildupdevs #programmerrepublic #fullstacklife #dev,3 hours,154
+62,misscod3r, Follow @misscod3r 👈,65800,#programming #programmer #developer #coding #code #software #bilgi #mühendis #coder #computer #bilgisayarmühendisliği #lifestyle #hacking #softwaredeveloper #peoplewhocode #programming #softwareengineer #linux #instagram #worldcode #hacker #java #coffee #fullstacklife #yazılım #programmerlife #foodporn #webdeveloper #developerlife⁣ #work #followforfollowback #instagram,5 hours,1295
+63,devcoderslife,Follow ⬆️⬆️,716,"#coder #coderlife #codergirl #codingpower #coders #programmer #programming #programmingmemes #coderedlifestyle #programmerlife #devepoler #softwareengineer #softwaredeveloper #software 
+#codingdays #cpulspuls #codeismylife #100daysofcode #gihub #kotlin #android #ios #react #reactnative #reactjs #javascript #workfromhome #workfromhomelife #setup",1 hours,61
+64,richwebdeveloper,5 Important CSS functions you must know...,54300,#javascript #js #python #php #css #css3 #web #webdesign #webdevelopment #tech #technews #reactjs #angularjs #programmer #programming #design #softwaredeveloper #softwareengineer #html #html5,1 hours,287
+65,python.india_,"
+Data Analysis 》》The process of inspecting, cleaning, transforming, and modeling data with the objective of discovering useful information, arriving at conclusions, and supporting the decision making process ",607,#python #data #dataanalysis #project #programming #science #coding,2 hours,87
+66,wittiminuts,,4081,#programmingisfun #learnprogramming #programming #viral #stackoverflow #wittiminuts #tagyourfriends #javascript #pythonprogramming #programmingmemes #hacking #javaprogramming #apple #windows #programmingjokes #hacks #programminghumor #codingjokes #codingbootcamp #codingproblems #codingpics #developerlife #androiddeveloper #developerslife #frontend #viralmemes #css,1 hours,20
+67,aarvy_technologies,"An application design tells alot about your business.
+.",554,#mobiledevelopment #devlife #peoplewhocode #iosdeveloper #fullstackdeveloper #softwaredevelopment #appdevelopers #vuejs #androiddev #coderlife #xcode #codinglife #developerlife #iosdevelopment #softwaredeveloper #programmer #mobiledeveloper #biztips #businesshacks #appdesign #growyourbusiness #businesstipsandtricks #development #programming #fullstack #csharp #online #flutter,1 hours,19
+68,the_gyan_factory,"
+We post amazing facts💯
+lifestyle hacks🎯 
+and mythbusters🛑 daily. .",14300,#computersetup #computerhacks #hacking #windowshack #linux #geeks #programming #microsoft #computerlove #lockdown2020 #didyouknowfacts #dailyfacts #factsdaily #facts2020 #facts2k20,1 hours,288
+69,geeky_or_nerdy,"
+""She said run a-round but you ran an Eclipse""",14000,#computerscience #programming #programmingmemes #programmer #coding #codinglife #codingmemes #mathjokes #mathmeme #mathsmeme #mathjoke #sciencehumor #sciencejokes #sciencememes #sciencefun #sciencestudent #science #teachersofinstagram #teachermeme #teacher #teachersmemes #teacherlife #teachermemes #teachersofig,2 hours,685
+70,ankittechie,"
+ROOTKITS✨",23700,"#cprogramming
+#cybersecuritymajor💻📱💾 #java
+#computerengineering 
+#computerscience 
+#ankittechie #happyprogramming #coding 
+#programming #css #programminglanguage 
+#bringcarryminativideoback #html 
+#angularjsdevelopment #frontenddeveloper #backenddeveloper #google #pythonprogramming
+#machinelearning #ads #computersecurity #geek
+#reactjsdeveloper #salary
+#ethicalhacking
+#programmingjokes #programmingmemes #programminglife #programmingisfun #codingbootcamp",2 hours,247
+71,computersciencelife,Do you guys use GitHub?😁,125000,#windowsxp #windows10 #coding #codeismylife #codeislife #codinggirl #lovecoding #programming #programmer #programmerhumor #developer #html #css #java #javascript #sarcasm #codingfun #codinggirl #php #webdesign #webdeveloper #funnyprogramming #informationtechnology #computerscience#html #kalilinux #kotlin#stevenuniverse #css #computersciencelife#microsoft #android,24 hours,4403
+72,life.ofacoder,Follow @life.ofacoder for more! 🔥,18000,#computersciencestudent #codingmemes #coding #computerscience #clanguage #computersciencestudents #programmerhumor #programmingmemes #coderlife #programming #compiler #codingjokes #codingfun #developer #developerlife #javadeveloper #backenddeveloper #datastructure #algorithm,3 hours,391
+73,codes.learning,"On demand post because everyone wants to the difference between them🧠🔥💻
+.",80100,"#neurolinguisticprogramming #programmingcontest
+#programminglife #programmingmemes
+#programminglanguage #computerprogramming
+#programmingislife #cprogramming #webprogramming
+#programmingisfun #programmingjokes
+#pythonprogramming #learnprogramming
+#programmingquotes #warriorprogramming
+#programminglanguage #programminghumour
+#programminglove #programmingstudents #programming
+#rprogramming #cncprogramming #javaprogramming
+# #crossfitprogramming
+#reprogramming #programmings #programminglanguages
+#programminghumor #programmingfacts
+#programmingmemes",6 hours,2393
+74,codes.learning,"Your brain vs CPU🧠🔥💻
+Follow @codes.learning for more information and programming🧠💻",80100,"#neurolinguisticprogramming #programmingcontest
+#programminglife #programmingmemes
+#programminglanguage #computerprogramming
+#programmingislife #cprogramming #webprogramming
+#programmingisfun #programmingjokes
+#pythonprogramming #learnprogramming
+#programmingquotes #warriorprogramming
+#programminglanguage #programminghumour
+#programminglove #programmingstudents #programming
+#rprogramming #cncprogramming #javaprogramming
+# #crossfitprogramming
+#reprogramming #programmings #programminglanguages
+#programminghumor #programmingfacts
+#programmingmemes",12 hours,1727
+75,codes.learning,"
+These are the world's largest programs🧠🔥💻
+Follow @codes.learning for more information and programming🔥💻",80100,"#neurolinguisticprogramming #programmingcontest
+#programminglife #programmingmemes
+#programminglanguage #computerprogramming
+#programmingislife #cprogramming #webprogramming
+#programmingisfun #programmingjokes
+#pythonprogramming #learnprogramming
+#programmingquotes #warriorprogramming
+#programminglanguage #programminghumour
+#programminglove #programmingstudents #programming
+#rprogramming #cncprogramming #javaprogramming
+# #crossfitprogramming
+#reprogramming #programmings #programminglanguages
+#programminghumor #programmingfacts
+#programmingmemes",1 hours,842
+76,"python.hub
+","Type your most common passwords and let's see which is the most common passwords amongst all
+website:- copyassignment.com",179000,".
+#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #computerscience #js#softwareengineering #informationtechnology#developer #softwareengineer#programmerhumor #pythonhub",8 hours,4019
+77,"python.hub
+","All you need to know about scope in python is presented here in the post
+Scope basically means the region for any variable where it can be used like a function 
+If you have any queries then you can comment down 👇 
+website:- copyassignment.com",179000,#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #computerscience #js#softwareengineering #informationtechnology#developer #softwareengineer#programmerhumor #pythonhub,4 hours,2067
+78,python.hub,"Hello friends, as you may already know that at this time we post related to oops concepts in python daily, so now let's move forward and see overriding in python .
+In overriding, we inherits classes but make some changes inside the child class which doesn't affect parent class .
+website:- copyassignment.com",179000,#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #computerscience #js#softwareengineering #informationtechnology#developer #softwareengineer#programmerhumor #pythonhub,13 hours,2922
+79,"berta.codes
+","
+Limits exist in our mind only! Let's take coffee in one hand, confidence in the other and go.. ! 🙌😎",5111,#careerchange #learntocode #newskills #reactjs #javascript #reactdeveloper #javascriptdeveloper #reactjsdeveloper #iamdeveloper #worldcode #webdevelopment #codingtips #webdeveloper #learningreact #learningcode #devlife #womencoders #frontenddeveloper #frontenddev #websitedevelopment #techtips #codingquotes #codingjourney #coding #programming #programmer #developer #freelancer #programmingisfun #programacion,16 hours,696
+80,coding_viking,"
+Design Patterns.
+Long ago, I read the GoF book, tried to memorize them and in the end at the interview was like “I know the singleton” 😆. Was very happy to see that Java8 simplified implementation of some of them: adapter, chain of responsibility, decorator, observer, strategy. Later at some point I started noticing them at projects. Somehow design patterns always were a TODO.
+❓Are you good at design patterns? Which ones you know if woken up at night?
+.",7629,"#designpatterns#book#java#booklover#computerscience#design#technology 
+#code#coder#coding#product#codependency#codinglife#developer#development#developers#tech#developerslife#developing#design#software#softwareengineer#web#backend#cute#instatechnology#womenwhocode#programmer#programming",3 hours,243
+81,"geekboy
+",Pain is temporary code is forever ❤️❤️❤️,71300,".
+#programmer #programming #coding #developer #code
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering #pythonprogramming
+#stackoverflow",1 hours,142
+82,"geekboy
+","Nobody cares 😂😂😂
+Follow: @geekboy
+.",71300,"#programmer #programming #coding #developer #code
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering #pythonprogramming
+#stackoverflow",2 hours ,479
+83,"geekboy
+","
+He didn't like it 😂😂
+Follow: @geekboy",71300,"#programmer #programming #coding #developer #code
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering #pythonprogramming
+#stackoverflow",4 hours,4687
+84,"geekboy
+","Everything is same ❤️❤️
+Follow: @geekboy
+.",71300,"#programmer #programming #coding #developer #code
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering #pythonprogramming
+#stackoverflow",6 hours,994
+85,coryalthoff,"
+I'm giving away a copy of one of my all-time favorite books: Automate the Boring Stuff with Python by Al Sweigart.",19000,#coding #programming #codinginspiration #codingschool #codinglife #codingcamp #codinglife💻 #learncoding #codingclub #giveaway #giveaways #iggiveaway #learncoding #codingforbeginners,1 hours,592
+86,"geek2code
+","Não é um processo fácil, mas está longe de ser impossível entrar uma das grande tech companies. Fora o salário acima da média e oportunidades para trabalhar em vários escritórios pelo mundo, essas empresas tem escala e desafios que você dificilmente vai conseguir encontrar e qualquer outro lugar! 😉 Ficou com alguma dúvida? pergunta nos comentários!",17100,"#computação #programação #programmer #programming #coding #computerscience #compsci #100daysofcode #learnprogramming #onlinecourse #pointer #python #javascript
+#aprendendoaprogramar #codeinterview #cienciadacomputacao #engenhariadecomputaçao #sistemasdeinformação #crackingthecodinginterview #js #javascripttutorial #javascript30 #typescript #reactjs #angularjs #angularjsdevelopment #angular7 #estagio #arduino #tecnologia",2 hours ,512
+87,"megganpereyra
+","
+This Monday I start my first official programming class (intro to computer science) and I gotta admit I have an advantage 🙂 I’m almost done with my AA and I didn’t want to wait for my CS major classes to start in order to learn code. My goal is to get my bachelors or masters at MIT so I knew from the start I had to be ahead of the game and work 2x as hard!",2107,#softwareengineer #webdeveloper #computerscience #devlife #womeninstem #programming #pythonprogramming #css #html #gamedevelopment #frontenddeveloper #codinglife #studentlife,1 hours,296
+88,logical_programming,"
+Thanks for making the new milestone. 😍😍😍😍 We are 10000 now .
+.
+Keep loving and i am doubling my efforts to make learning more fun. .",10300,#programmer #programmerslife#programming#programminglife #programmerrepublic#worldcode #coding #codinglife#webdevelopment#webdeveloper #java #javascript #code#sql #python#perl #php #html #development #software#linux #learntocode #linuxfan #nerd #geek #coders #opensource #computer,1 hours,237
+89,logical_programming,"A few thoughts on scraping. 🕷️🕸️.
+A spider is a program which feeds on other's data.",10300,#programmer #programmerslife#programming#programminglife #programmerrepublic#worldcode #coding #codinglife#webdevelopment#webdeveloper #java #javascript #code#sql #python#perl #php #html #development #software#linux #learntocode #linuxfan #nerd #geek #coders #opensource #computer,23 hours,605
+90,i_love_programming_insta,"
+You need to learn a lesson 😅🤣⠀",31800,"#programming #programminglife #programme #hacker #programmer #iloveprogramming ⠀
+#linux #coding #technology #tech #worldcode #javascript #html #php #developer #hacking #css #angular #nodejs #frontend #codes #programmers #programmerslife #java #computerscience",1 hours,170
+91,i_love_programming_insta,"
+Yes, but no 🤣🤣⠀",31800,"#programming #programminglife #programme #hacker #programmer #iloveprogramming ⠀
+#linux #coding #technology #tech #worldcode #javascript #html #php #developer #hacking #css #angular #nodejs #frontend #codes #programmers #programmerslife #java #computerscience",23 hours,901
+92,"_programmers.life
+","""When alot seems like not alot...⠀
+.⠀
+As of recently, I have been doing like 4 or 5 tasks everyday for an entire month. At first adding more and more to my plate seemed like it didn’t make any sense.⠀
+.⠀
+But after realizing that if you want to do something you should just do it has made me come a long way. These tasks seem minimal now, and I feel like I can do more. .⠀
+So I say that to say this, it is a mind game if you say you can’t you can’t if you say you can then start...like yesterday :)⠀",181000,"#coderlife #compsci #programmerrepublic #programming #coding #minimalsetup #setup #setupswave #codinglife #monitors #codingisfun #codingpics #codingjokes #peoplewhocode""",1 hours,258
+93,"_programmers.life
+","Startup diary, entry 5⠀
+⠀
+As you all know I am doing a master and an internship at the moment so I don’t have much time to sit down and get hands on my startup 💡. This will happen from the 12th July on. Fortunately, using our brain to picture scenarios is something we can permanently do 🧠.⠀",181000,"#coderlife #compsci #programmerrepublic #programming #coding #minimalsetup #setup #setupswave #codinglife #monitors #codingisfun #codingpics #codingjokes #peoplewhocode""",23 hours,1605
+94,codinggoats,Some coding on the weekend ⭐️ Rate this Setup 1 - 10 🔥,23000,#coding #coder #coderlife #programming #programmer #setup #setupinspiration #cleansetup #webdeveloper #php #python #java #javascript #html #css #developers #codinggoats #webdesign #software #softwareengineer #softwaredeveloper #iosdevelopment #swift #kotlin #androiddeveloper #mobiledevelopment #appdeveloper #hacker #hacking,1 hours,222
+95,codinggoats, Netflix and Code on a Friday night ⭐️ What would you do? 🤯,23000,#programmers #netflix #programming #coding #code #codinggoats #webdev #webdeveloper #python #java #javascript #html #css #pythonprogramming #javascripts #uidesign #softwareengineer #software #softwaredeveloper #iosdeveloper #mobiledevelopment #appdeveloper #hacker #hacking #hackers #ai #tech #artificialintelligenceai #macbookpro,23 hours,868
+96,cpp_isawesome,"A small simple program for printing the multiplication table of a number!
+•",10800,#programming#coding#programmer#developer#code#technology#coder#tech#programminglife#programmingmemes#programmingisfun#programminghumor#programmingjokes#programminglanguage#programmings#programmingcontest#programminghumour#programmingstudents#programmingquotes#programmingfun#programmingmeme#programminglanguages#programminglove#programmingislife#programmingfacts#programmingproblems#programmingart#programmingjoke#cpp,1 hours,103
+97,cpp_isawesome,"
+Problem: Write a program that keeps calculating the sum of the digits of a number until the number is a single digit. Enjoy!
+•",10800,#programming#coding#programmer#developer#code#technology#coder#tech#programminglife#programmingmemes#programmingisfun#programminghumor#programmingjokes#programminglanguage#programmings#programmingcontest#programminghumour#programmingstudents#programmingquotes#programmingfun#programmingmeme#programminglanguages#programminglove#programmingislife#programmingfacts#programmingproblems#programmingart#programmingjoke#cpp,24 hours,895
+98,skillzy.official,"Robots may take over the world, but not if you do it first. Join Riddhi for ‘Programming Your Life’ with Skillzy!",624,#skills #skilldevelopment #skillzy #coding #python #arrays #loops #hacking #codingisfun #coder #programming #code #technology #anonymous #computerscience #teaching #course #learning,1hours,84
+99,python.science,"Even numbers in a range🧠🔥💻
+Follow @codes.learning for more information and programming🔥💻",9396,#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #computerscience #js#softwareengineering #informationtechnology#developer #softwareengineer#programmerhumor,1 hours,74
+100,python.science,"Print even numbers in a list🔥🧠💻
+Follow @python.science for more information and programming🔥💻
+.",9396,"#neurolinguisticprogramming #programmingcontest
+#programminglife #programmingmemes
+#programminglanguage #computerprogramming
+#programmingislife #cprogramming #webprogramming
+#programmingisfun #programmingjokes
+#pythonprogramming #learnprogramming
+#programmingquotes #warriorprogramming
+#programminglanguage #programminghumour
+#programminglove #programmingstudents #programming
+#rprogramming #cncprogramming #javaprogramming
+# #crossfitprogramming
+#reprogramming #programmings #programminglanguages
+#programminghumor #programmingfacts
+#programmingmemes",21 hours,209
+101,amantes_delcodigo,"Sonríe a la vida y la vida te devolverá esa sonrisa"" ",35100,"#amantes_delcodigo #sistemas #desarrolloweb #programadores #tecnologia #programacion #programando #tecnologiadigital #desarrolladores #ingenieriainformatica #informática #informatica #ingeniero #consola #desarrollar #devgirl
+#coding #developer #development #programming #programmer #dev #developers #javascript #googleanalytics #programadora #comunidaddeprogramadores #women #strong",1 hours,391
+102,amantes_delcodigo,COLEGA: ¿Lo entendiste todo?,35100,"#amantes_delcodigo #sistemas #desarrolloweb #programadores #tecnologia #programacion #programando #tecnologiadigital #desarrolladores #ingenieriainformatica #informática #informatica #ingeniero #consola #desarrollar #devgirl
+#coding #developer #development #programming #programmer #dev #developers #javascript #googleanalytics #programadora #comunidaddeprogramadores #worldofprogrammers #programmingmemes #programmingjokes",17 hours,829
+103,"programing_era
+","
+Follow my page 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+@Programing_era",2661,"#desktop 
+#java 
+#coding
+#programming 
+#c++
+#graphicdesign 
+#graphicdesigner 
+#google 
+#microsoft 
+#apple 
+#programmingmemes 
+#softwareengineer 
+#coder 
+#window
+# Linux
+#macbookpro 
+#javascript 
+#pythonprogramming 
+#programminghumor 
+#artificialintelligence 
+#bill_gates 
+#xæa12",1 hours,29
+104,androidnerds,"First of all, we want to say a big ""Thank You"" 🙏🙏
+.
+.",5055,"#androidcodingtips #androidcoding #androidappcoding #androiddevelopers #androiddev #androiddeveloper #androiddevelopment #androidskills #androidtips #androidtricks #developmenttip #developercommunity #programmer #programming #codingtricks #codingmania #codingskills #codingeducation #codingknowledge #learncode #learncoding #developerstuff #developerslife #appdeveloper #apptechnology #apptech #androiddography #mobileapplication #mobileapps .
+.",1 hours,147
+105,"pure.python
+",Save it Share it ♥️♥️,161000,#programmer #programming #coding #developer #code #coder #stackoverjoke #meme #java #javascript #python #webdeveloper #php #software #softwaredeveloper #computerscience #tech #webdesign #computer #technology #webdevelopment #engineer #development #webcoding #programmers #softwareengineer #programmingmemes #computerengineering #codinglife #stackoverflow,1 hours,1055
+106,"pure.python
+","
+Weekend Puzzle Time 🔥",161000,".
+#programmer #programming #coding #developer #code #coder #stackoverjoke #meme #java #javascript #python #webdeveloper #php #software #softwaredeveloper #computerscience #tech #webdesign #computer #technology #webdevelopment #engineer #development #webcoding #programmers #softwareengineer #programmingmemes #computerengineering #codinglife #stackoverflow",10 hours,1590
+107,dead.programmer,"
+Follow for more:
+@dead.programmer",12200,#dead_programmer #programmingmemes #programming #programmerhumor #programmerlife #codinglife #codingmemes #computerscience #programmerlife #linux #nerdlife #vpn #coding #programminglife #programmer #tester #internet #javaprogramming #javascriptdeveloper #javascript #pythonprogramming #htmlcoding #webdeveloper #websitedesigner #development #developer #python3 #javadeveloper #cplusplus,1 hours,151
+108,dead.programmer,"
+Follow for more:
+@dead.programmer",12200,#dead_programmer #programmingmemes #programming #programmerhumor #programmerlife #codinglife #codingmemes #computerscience #programmerlife #linux #nerdlife #vpn #coding #programminglife #programmer #tester #internet #javaprogramming #javascriptdeveloper #javascript #pythonprogramming #htmlcoding #webdeveloper #websitedesigner #development #developer #python3 #javadeveloper #cplusplus,10 hours,845
+109,codeamy,"
+Follow us @codeamy for daily updates",25000,#programmer #programming #coding #developer #code #webdeveloper #javascript #coder #php #html #webdesign #java #technology #webdevelopment #software #softwaredeveloper #python #css #development #computer #tech #codinglife #linux #computerscience #programmers #programmerslife #geek #programmingmemes #softwareengineer #webdesigner,1 hours,98
+110,officialhackerinc,"
+Do follow us on Twitter 💯",88500,#programmer #programming #coding #developer #code #webdeveloper #javascript #coder #php #html #webdesign #java #technology #webdevelopment #software #softwaredeveloper #python #css #development #compute,5 hours,668
+111,conscious.scientist,"The three types of knowledge for sucess⠀
+⠀
+Last week during an interview here on IG I was asked the following question: “What is it that you could advice our audience in your experience?” 🤔.⠀
+⠀
+This is a conclusion I have arrived in the last years, my own experience 🧠.⠀",1780,"
+#datascience #devlife #coder #naturallanguageprocessing #startuplifestyle #careeradvice #programmerlife #algorithm #deeplearning #developerlife #pythonprogramming #dowhatyouwant #munichblogger #entrepreneurmindset #programmer #code #advice #programming #artificialintelligence #coding #alwayslearning",3 hours,117
+112,gosiarakowska,Error-on-line-352-but-my-code-ends-at-129 face ,1115,#helloworld #javascript #webdesigner #codegirl #womenwhocode #womenintech #girlsdoit #softwareengineer #програмистка #programmer #warsaw #poland #computerscience #developer #blonde #dev #softwareengineer #polishgirl #happy #itgirl #js #html #reactjs #codingdays #codelife #coderlife #coding #frontend #programmerlife #dev_girls #programming,6 hours,458
+113,codingdays,"s
+Are you still working from home⁉️Office? What's better?",157000,#code #coding #developer #development #programming #programmer #dev #developers #web #webdesign. #engineer #backend #websitedesign #softwareengineer #softwareengineering #javascript #csharp #uidesign #angular #pythoncode,24 hours,2486
+114,"python.hub
+","Hello friends, do you want to make money with your programming skills? 
+If yes, then here are some best ways in the post which you can use to make money
+Comment if you are thinking / doing any of the above
+If you want free source codes or want to learn python from scratch then we recommend you to go our all new website :- copyassignment.com",181000,#coder #codergirl #coderlife #coderpower #coders#coderslife #coding #codingbootcamp #codingisfun#codinglife #codingpics #java #javascript#programacion #programing #programmer#programmerlife #programmerrepublic#programmers #programmerslife #programming#programminglife #computerscience #js#softwareengineering #informationtechnology#developer #softwareengineer#programmerhumor #pythonhub,23 hours,6049
+115,gujju_storm,"
+કંઈક નવું જાણવા અને શીખવા હમણાં જ ફોલૉ કરો.",160000,#gujju_storm #gujjurocks #gujarati #gujju #gujjugram #gujju_no_love #prem #premi #rajkot #surat #ahemdabad #gandhinagar #himmatnagar #baroda #junagadh #jamnagar #happyrakshabandhan #RHB #surendranagar #gujjuboy #gujjus #gujjulove #kathiyawadi #pakkogujarati #gujjuquote #mahesana#programming,9 hours,5929
+116,"itsjessicahua
+","
+I’ve been living at this desk for the past couple of months and happy to say the app I’ve been working on at work was FINALLY launched into production today! 🥳",1725,#womenintechblogger #stemblogger #techblogger #womeninstem #womenwhocode #girlswhocode #softwareengineer #steminist #gsintech #dev_girls #engineeringgals #stembaddies #officeinspo #standingdesk #devsetup #peoplewhocode #officeinspiration #officerevamp #homeofficesetup #webdev #remoteengineer #remotedeveloper #autonomous #workhardanywhere #developer_work #programming #girlsinscience #girlsinstem #stem,19 hours,227
+117,richardbusato,🔥 Finishing the Weather App Design. 😈,23500,#developer #ux #programming #setup #userinterface #coding #programmer #ui #javascript #desksetup #webdesign #userexperience #TheDreamSetup #software #reactjs #uidesign #webdeveloper #uxdesign #interface #computerscience #html #webdesigner #css #webdevelopment #prototyping #webdev #softwareengineering #BeyondCode #100daysofcode,21 hours,2118
+118,codinganddecoding,"
+Big-O Cheat sheet for common searching and sorting algorithms",120000,"#programmers #developers
+#programmer #developer
+#code #coder #coding #programming
+#softwaredevelopment #programmerlife
+#learntocode #datastructure #computerprogramming #algorithms #javascript
+#softwaredevelopment #python #softwaredeveloper #codinglife #fullstackdeveloper #javascriptdeveloper
+#java #programminglife
+#computerscience #computerengineer #softwareengineer #computerengineering #webdev #computersciencestudent #learnprogramming",1 hours,288
+119,renacto_tech,We Provide web hosting services at affordable price...,50,#webdevelopment #webdesign #webdeveloper #website #html #coding #programming #digitalmarketing #css #javascript #developer #seo #programmer #websitedesign #webdesigner #web #marketing #design #python #code #php #wordpress #java #development #graphicdesign #webdev #coder #branding #business #bhfyp,24 hours,27
+120,coding_unicorn,"Did you know that:
+* 15% of the world's population experience some form of disability?
+* 70% of the web is inaccessible to folks with disability?",53700,"⠀
+#code #programming #developer #coding #wordpress #programmer #webdeveloper #javascript #softwaredeveloper #girlswhocode #devlife #worldcode #csharp #learntocode #reactjs #developerlife #frontenddeveloper #angularjs #100daysofcode #peoplewhocode #fullstackdeveloper #vuejs #backenddeveloper #dotnet #mobiledevelopment #womanintech #accesabilityawareness #programador #программирование #a11y",1 hours,219
+121,jakobowsky,"
+Have you ever tried wireless charger?⁣
+⁣
+Hey, a guy recently I got a pretty nice gift from @vissles_official , a wireless charger.⁣
+I can say I am pretty satisfied with this because it looks good and it's super comfy to just put the phone or my AirPods pro on it and it charges quick.⁣",30200,#coder #coding #programmer #graphql #apple #redux #programming #developer #javascript #frontenddeveloper #softwaredeveloper #reactjs #reactnative #macbookpro #softwareengineer #geek #flutter #npm #buildtheweb #html #java #webdev #codelife #mobiledevelopment #typescript #vscode #webdeveloper #workspace #programmers #buildupdevs,2 hours ,146
+123,devjdelasen,"
+I left my Mac on the apple store to fix the keyboards 😱 the keys were literally falling of....
+.
+They say I will have it for next week, meanwhile while I will be using a Windows, it’s as bad as it used to be to be honest... 😅
+.
+What’s your favorite SO? Ubuntu, windows, mac? Some other Linux ",26200,#programming #iosdeveloper #iosdev #androiddev #coding #thedevlife #devlife #peoplewhocode,14 hours,481
+124,codinggoats," Imagine coding here ... ⭐️🚀 Rate this stunning coding setup 🤯 -
+I’m really excited to read you opinions in this masterpiece. I personally love it and would love to code here! -
+Tell me your thoughts 🤔 and if you want see more great coding content:
+Follow: @codinggoats as well as the creator: -",23800,#coding #setup #cleansetup #codinggoats #setupinspiration #programming #programmer #coder #code #developer #webdeveloper #uidesign #ixdesign #python #java #javascript #js #nodejs #pythonprogramming #software #softwareengineer #softwaredeveloper #ai #machinelearning #tech #iosdeveloper #mobiledevelopment #appdeveloper #macbookpro,22 hours,787
+125,__coderboy_,"
+Python basics",89,"#code #coding #python #machinelearning #programming #programmer #programmerlife 
+#code",3 hours,17
+126,desenvolvedormaster,Funções String em Python ☕,6993,#desenvolvedordegames #programador #desenvolvedores #desenvolvedordesites #css #desenvolvedorweb #logicadeprogramação #desenvolvedor #programadores #programacao #desenvolvedores #sql #node.js #mobile #java #programadores #desenvolvedor #programmer #javascript #programming #frontend #css3 #javascript #software #java #dev#html#python#php #programação #programar #mongodb,5 hours,127
+127,stefancode,"
+Good morning 🌞 Working on the new javascript countdown timer project. 
+💡Discovered new property in CSS, place-items. It's actually a shorthand for the align-items and justify-items, combining them into a single declaration. ",5720,"#programming
+#programmingisfun
+#html
+#css
+#developer
+#javascript
+#programmer
+#coding
+#coder
+#software
+#programminglife
+#coderlife
+#developerlife
+#codinglife
+#codelife
+#code",8 hours,291
+128,codedatt,"How does this work ?🤦‍♂️😄
+Follow @codedatt for more tech/code jokes and info 🔥",65400,"#codedatt #programmerslife #python #python3 #backenddeveloper #androiddeveloper #webdevelopment #hacking #cprogramming #programmingmemes #java #deeplearning #softwaredeveloper 
+#programming #coding #programmer #programminglife #coder #javascript #fullstackdeveloper #codingmemes #programmers #cplusplus #programmingisfun #developer #coders #neuralnetworks #html #webdeveloper",5 hours,690
+129,coursepdftoolseller,"In 1966 the home security system was co-invented by Mary Van Britain who was a nurse, she spent most nights at home alone and didn’t feel safe, so she created a device that would put her mind at ease.",229,"
+#mobilehacking #hacking #hacker #cybersecurity #ethicalhacking #hack #kalilinux #smsbomb #programming #technology #anonymous #security #infosec #programmer #hacked #cyber #ethicalhacker #hackerman #pentesting #cybercrime #hackerspace #coding #malware #python #tech #cyberattack #udemycourse #hacks #moneymaking #bhfyp",15 hours,65
+130,amantes_delcodigo,"
+""Quien se atreve es quien triunfa"" 🙌.",35500,"#amantes_delcodigo #sistemas #desarrolloweb #programadores #tecnologia #programacion #programando #tecnologiadigital #desarrolladores #ingenieriainformatica #informática #informatica #ingeniero #consola #desarrollar #devgirl
+#coding #developer #development #programming #programmer #dev #developers #javascript #googleanalytics #programadora #comunidaddeprogramadores #worldofprogrammers #setup #programmingislife",1 hours,169
+131,marcusmichaels,"
+If I had a bird, I’d call it Time... because it’s flying by 🦅",16300,"
+#code #coding #codinglife #developer #developerlife #dev #webdev #webdeveloper #frontenddeveloper #frontend #fullstackdeveloper #fullstack #texteditor #technology #programmer #programming #programmerlife #javascript #officesetup #nodejs #devlife #startup #react #html5 #css #remoteworking #softwareengineer #devops",3 hours,626
+132,programmer.me,"Follow @programmer.me and @webdesigner.me  for daily updates
+.
+Check-out our stories for programming resources.",457000,#programmer #programming #coding #developer #code #webdeveloper #javascript #coder #php #html #webdesign #java #technology #webdevelopment #software #softwaredeveloper #python #css #development #computer #tech #codinglife #linux #computerscience #programmers #programmerslife #geek #programmingmemes #softwareengineer #webdesigner,6 hours,8905
+133,"big_it_jobs
+",Double TAP for more amazing post🤳👆👆,18700,"#bigitjobs #big_it_jobs #itjobs
+#computerscience
+#codinglife
+#coding #javascript
+#coder
+#programming #code
+#peoplewhocode 
+#softwaredeveloper
+#programmerlife #codingisfun
+#programmers
+#devlife
+#codelife #appdeveloper",23 hours,1485
+134,programmingofficial,@letsupgrade.in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING PROGRAM  🤓,111000,"#programmer #programming #coding #developer #code 
+#coder #programmingofficial #meme #java #javascript #python
+#webdeveloper #php #software #softwaredeveloper
+#computerscience #tech #webdesign #computer
+#technology #webdevelopment #engineer #development
+#machinelearning #programmers #softwareengineer
+#programmingmemes #computerengineering #pythonprogramming
+#stackoverflow",3 hours,138
+135,professor_hub,"
+CSS Frameworks⚡
+LIKE SHARE SUBSCRIBE my YouTube Channel Professor Hub for awesome videos.
+
+Keep Supporting guys.
+Follow for more.",202,#css #html #javascript #coding #programming #webdesign #code #developer #programmer #webdeveloper #java #webdevelopment #php #software #web #webdesigner #coder #reactjs #linux #python #developers #android #dev #technology #design #nodejs #ux #tech #development #angularjs,9 hours,64
+136,faiz_sheikh_911,"The most beautiful thing in my laptop.
+•",1968, #gamedev #gameprogramming #gamedeveloper #gamedevlife #gameprogrammer #gamedevelopers #gamedevs #gamedevelopment #gamedeveloping #gamedevelopers #gamedesign #gamedesigner #gamedesigning #gamejam #gamestagram #videogames #videogame #instagames #instagaming #game #conding #programming #developing #codinglife,17 hours,49
+137,computer_gyaan,"
+Here are the companies that requires knowledge not DEGREE. 
+Be knowledgeable not a paper degree person.
+.",2224,"#programming
+#programmers #programmerlife #programminglanguages #cprogramming #javaprogramming #learnprogramming #predictiveprogramming #coder #coderslife #codingcommunity #codinghumor #codingfun #htmlcoding #pycoders #apple #google #tesla #computer_gyaan #computerscience #computervision #technology #technicalanalysis #techworld #pico2020 #codes #codeforgood #codelife",6 hours,139
+138,twinewebdesign,"
+How to create UI specifications like a a Pro. By @alexunderhess.design⁣",79600,#webdesign #uitrends #uxigers #dailyinspiration #online #mobile #mobiledesign #responsivedesign #website #digitaldesign #webdeveloper #webdesign #uxui #html #css #interaction #interactiondesign #interface #interfacedesign #ui #ux #web #inspiration #programming #java #freelancer #php #apps,1 hours,91
+139,learningwithjarvis,"Follow @learningwithjarvis for more.
+❤ Like, ✍️ comment and 👥share to support.👇",35100,"
+#programming #programmer #programmers #coding #coder #python #softwaredeveloper #computerscience #csharp #softwareengineer #softwareengineering #html #css #webdevelopment #javascript #webdeveloper #java #webdesign #developer #webdesigner #php #developers #development #learningwithjarvis #techmediastudio #softwaredevelopment #tech #software #programminglife #developer",8 hours,408
+140,hackersplanet22,"
+How many sites did you knew already?
+Follow @hackersplanet22 for more such content",1358,"#hackersplanet
+#codinglife #computerscience #horseriding #cybersecurityawareness #coder #kalilinux #hacker #hack #horsesofinstagram #java #hacks #softwaredeveloper #cybersecurity #hackinginstagram #infosec #horse #hackers #coding #horses #linux #technology #cprogramming #python #programmer #code #cyberattack #programmers #linuxfan #programming",18 hours,122
